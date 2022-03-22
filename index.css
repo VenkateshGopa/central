@@ -131,8 +131,14 @@ img{
   height: 40px;
   border-radius: 50%;
 }
+.navimg:hover{
+  cursor: pointer;
+}
 .icon{
   color: #26558f;
+}
+.icon:hover{
+  cursor: pointer;
 }
 .navitem:hover{
   text-decoration: none;
