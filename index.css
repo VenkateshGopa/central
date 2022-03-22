@@ -1,0 +1,176 @@
+body {
+  padding: 3rem 1.5rem;
+}
+
+// Style Bootstrap icons
+.bi {
+  fill: currentColor;
+}
+
+img{
+  width: 120px;
+}
+.ash{
+  background-color: rgb(241, 241, 241);
+}
+.feed{
+  color: #26558f;
+}
+.feedbtn{
+  border: none;
+  background-color: none;
+  font-size: 12px;
+}
+.feedbtn img{
+  width:20px;
+  height: 20px;
+}
+.feedimg{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.feedinput{
+  border:none;
+  font-size: 12px;
+}
+.feedinput:focus{
+  border:none;
+  font-size: 12px;
+}
+.postcat{
+  font-size: 8px;
+}
+
+.dots{
+  transform: rotate(90deg);
+}
+.Postimg{
+  width: 100%;
+}
+.orangeheading{
+  color: rgb(255, 123, 0);
+  font-size: 13px;
+}
+.Announcementsimg{
+  width: 100%;
+}
+.smallfont{
+  font-size: 10px;
+}
+.backash{
+  background-color: rgb(243, 243, 243);
+}
+.backbrown{
+  background-color: #726c6c;
+}
+.upcommingeventsbag{
+  background-color: #524b4b;
+}
+.up-title{
+  color: rgb(108, 159, 253);
+  font-size: 13px;
+}
+.up-date{
+  font-size: 11px;
+}
+.up-btn{
+  background-color: rgb(255, 123, 0);
+  font-size: 10px;
+} 
+.types{
+  font-size: 13px;
+}
+.borderbottom{
+  border-bottom: 3px solid rgb(255, 123, 0);
+}
+.cardname{
+  font-size: 12px;
+  color: rgb(137, 137, 255);
+}
+.carddes{
+  font-size: 10px;
+}
+.avathar{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #eeeeee;
+}
+.nav{
+  background-color: #26558f;
+}
+.navitem{
+  color: white;
+  font-size: 12px;
+}
+.navbtn{
+  color: rgb(255, 51, 0);
+  font-size: 12px;
+}
+.check{
+  font-size: 10px;
+}
+.in{
+  font-size: 14px;
+}
+.navcheckinbtn{
+  width: 50px;
+  height: 50px;
+  background: rgb(240,101,24);
+  background: linear-gradient(25deg, rgba(240,101,24,1) 0%, rgba(216,45,188,1) 90%);
+  border: 1px solid white;
+}
+
+.navcheckinbtn:hover{
+  cursor: pointer;
+}
+
+.navimg{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.icon{
+  color: #26558f;
+}
+.navitem:hover{
+  text-decoration: none;
+  color:#FFA900 ;
+  cursor: pointer;
+}
+.search{
+  position: relative;
+  width: 120%;
+}
+.search input{
+  background-color: rgba(243, 243, 243, 0.685);
+  font-size: 12px;
+  border: 1px solid rgba(172, 172, 172, 0.986);;
+}
+.searchicon{
+  position:absolute;
+  top: 30%;
+  right:4%;
+}
+.w-35{
+  width: 35%;
+}
+.card{
+  width: 150px;
+  height: 200px;
+  background: rgb(255,255,255); 
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(74,112,163,1) 2%, rgba(20,63,116,1) 100%);
+}
+.logo{
+  width: 100px;
+  height: 120px;
+}
+.card:hover{
+  cursor: pointer;
+  background: rgb(35,60,96);
+  background: radial-gradient(circle, rgba(35,60,96,1) 0%, rgba(35,60,96,1) 100%);
+}
+.up-events-title{
+  color: #26558f;
+}
