@@ -184,3 +184,17 @@ img{
 .downicon{
   font-size: 12px;
 }
+.vsmall{
+  background-color: red;
+  border-radius: 50%;
+  width:10px;
+  height: 10px;
+  font-size: 7px;
+  color: white;
+  position: absolute;
+  top: 10%;
+  right: -10%;
+}
+.bell{
+  position: relative;
+}
