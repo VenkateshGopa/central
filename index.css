@@ -228,3 +228,15 @@ img{
   transform: translateY(-30%) scale(1.25) rotate(-15deg);
   cursor: pointer;
 }
+
+@keyframes popup {
+  0%{
+    transform: translateY(0px)
+  }
+  50%{
+    transform: translateY(-20px)
+  }
+  100%{
+    transform: translateY(0px)
+  }
+}
