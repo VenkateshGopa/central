@@ -59,6 +59,9 @@ img{
 .smallfont{
   font-size: 10px;
 }
+.medfont{
+  font-size: 12px;
+}
 .backash{
   background-color: rgb(243, 243, 243);
 }
