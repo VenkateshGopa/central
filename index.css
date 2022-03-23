@@ -198,3 +198,30 @@ img{
 .bell{
   position: relative;
 }
+.hover:hover{
+  background-color: #ececec;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.lcsicon{
+  font-size: 16x;
+}
+.absolute{
+  position: absolute;
+  top: -50px;
+  left: 0%;
+  height: 35px;
+  border-radius: 50px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  visibility: hidden;
+}
+.emoji{
+  padding: 5px;
+  font-size: 25px;
+  margin: 0;
+}
+.emoji:hover{
+  transform: translateY(-30%) scale(1.25) rotate(-15deg);
+  cursor: pointer;
+}
