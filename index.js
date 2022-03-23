@@ -3,8 +3,8 @@ const display = () =>{
     const collection = document.getElementsByClassName("emoji");
     for (let i = 0; i < collection.length; i++) {
     collection[i].style.animation = "popup";
-    collection[i].style.animationDuration = "0.3s";
-    collection[i].style.animationDelay = `${i*0.05}s`
+    collection[i].style.animationDuration = "0.6s";
+    collection[i].style.animationDelay = `${i*0.1}s`
     }
 }
 const hide = () =>{
